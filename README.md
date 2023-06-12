@@ -8,8 +8,7 @@ https://fibonacci-api-60j3.onrender.com/fib/1
 ユニットテストは全て通っているが、実際にコンソールされる値が現状異なってしまっている。
 
 ## ソースコードの構成(ver.1)
-- index.js (expressを用いた通信の部分)
-- fibonacci.js (getFibonacci関数の返り値をもとにAPIのレスポンスを規定)
+- index.js (全て一つのファイルに記述)
 - package-lock.json
 - package.json
 - README.md
