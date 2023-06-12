@@ -1,6 +1,6 @@
 # 問題 1.フィボナッチ数を返す API サービスの開発
 ## テストを追加する前のAPI (ver.1)
-https://fibonacci-api-60j3.onrender.com/fib/1
+https://fibonacci-api-1lch.onrender.com
 ## テスト追加後のAPI (ver.2)
 https://fibonacci-api-60j3.onrender.com/fib/1
 
