@@ -23,4 +23,7 @@ https://fibonacci-api-60j3.onrender.com/fib/1
 - README.md
 - .gitignore
 
+# webブラウザがwebページを表示する仕組み
+question2.txtに記述
+
 
